@@ -1,0 +1,70 @@
+﻿{
+	"error":"",
+	
+	"QualityOfOperations":
+	{
+		"Description":
+		{
+			"name":"��������",
+			"code":"WRH",
+			"id":"1"
+		},
+		
+		"DateTime":
+		{
+			"date":"18.04.16",
+			"time":"15:13:45"
+		},
+		
+		"Income":
+		{
+			"Closed":"0",
+			"Created":"0",
+			"InQueue":"0",
+			"Expected":"0",
+			"Delay":"0"
+		},
+		
+		"Orders":
+		{
+			"Closed":"0",
+			"Assembled":"0",
+			"InQueue":"0",
+			"InAssembling":"0",
+			"Delay":"0"
+		},
+			"Cars":
+			{
+				"Closed":"0",
+				"Expected":"0",
+				"Count":"0",
+				"InQueue":"0",
+				"Weight":"0",
+				"Pallets":"0"
+			},
+			"Statistics":
+			{
+				"IncomeCapacity":"0"
+			},
+			"StatisticsChart":[
+				{
+					"Capacity":"0",
+					"Date":"0",
+					"Time":"0"
+				}
+			],
+			"IncomesDelay":[
+				{
+					"RegNo":"0",
+					"Delay":"0"
+				}
+			],
+			"OrdersDelay":[
+				{
+					"RegNo":"0",
+					"Delay":"0"
+				}
+			]
+		}
+	}
+}
